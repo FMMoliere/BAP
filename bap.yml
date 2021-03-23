@@ -1,4 +1,4 @@
- dependencies:
+dependencies:
   - python=3.6
   - ipython=7
   - jupyter=1.0.0
